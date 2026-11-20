@@ -4,7 +4,7 @@
 
 Extract secret keys from **TOTP/HOTP QR codes** and **Google Authenticator exports**. Copy a key, save a backup or move your accounts to another authenticator.
 
-🚀 **[Open TOTP Extractor](https://totp-extractor.github.io/)** — no installation or sign-up.
+🚀 **Zero configuration.** [Open TOTP Extractor](https://totp-extractor.github.io/) — no installation or sign-up.
 
 🔐 Images and keys stay in your browser. Open source under the **MIT license**.
 
